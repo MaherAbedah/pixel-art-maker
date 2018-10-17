@@ -12,5 +12,5 @@ To get started, download the project
 `cd pixel-art-maker`
 start `index.html`
 
-or you can use the available online page [pixel-art-maker-canvas](https://maherabedah.github.io/pixel-art-maker/).
+or you can use the available online page [pixel-art-maker-canvas](https://codepen.io/maherabedah/full/jzmezv/).
 
