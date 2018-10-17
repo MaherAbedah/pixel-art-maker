@@ -1,16 +1,16 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+## project overview
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+this project is one of the Udacity nano-degree prjects.
+it uses HTML, CSS, and JS.
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To get started, download the project 
+`git clone https://github.com/MaherAbedah/pixel-art-maker.git` 
+`cd pixel-art-maker`
+start `index.html`
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+or you can use the available online page [pixel-art-maker-canvas](https://maherabedah.github.io/pixel-art-maker/).
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
